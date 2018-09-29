@@ -1,0 +1,1 @@
+# Browsette -- a browser extension
