@@ -1,0 +1,24 @@
+{
+  "name": "browsette",
+  "version": "1.0.0",
+  "description": "Browser extension",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nurseiit/browsette.git"
+  },
+  "author": "Nurseiit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nurseiit/browsette/issues"
+  },
+  "homepage": "https://github.com/nurseiit/browsette#readme",
+  "devDependencies": {
+    "eslint": "^5.6.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0"
+  }
+}
