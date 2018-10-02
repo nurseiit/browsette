@@ -1,10 +1,20 @@
 {
   "name": "browsette",
   "version": "1.0.0",
+  "private": true,
+  "homepage": ".",
   "description": "Browser extension",
-  "main": "background.js",
+  "dependencies": {
+    "prop-types": "^15.6.2",
+    "react": "^16.5.2",
+    "react-dom": "^16.5.2",
+    "react-scripts": "1.1.5"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
   },
   "repository": {
     "type": "git",
@@ -15,10 +25,12 @@
   "bugs": {
     "url": "https://github.com/nurseiit/browsette/issues"
   },
-  "homepage": "https://github.com/nurseiit/browsette#readme",
   "devDependencies": {
-    "eslint": "^5.6.1",
-    "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.14.0"
+    "babel-eslint": "^9.0.0",
+    "eslint": "^5.6.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.1"
   }
 }

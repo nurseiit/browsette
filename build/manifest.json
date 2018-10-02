@@ -2,9 +2,8 @@
   "name": "Browsette",
   "version": "0.01",
   "description": "Define later",
-  "background": {
-    "scripts": ["background.js"],
-    "persistent": false
+  "browser_action": {
+    "default_popup": "index.html"
   },
   "manifest_version": 2  
 }
