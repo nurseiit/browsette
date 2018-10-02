@@ -1,8 +1,8 @@
 import React from 'react';
-import Game from './components/Game';
+import TodoList from './components/TodoList';
 
 const App = () => (
-  <Game />
+  <TodoList />
 );
 
 export default App;
