@@ -1,9 +1,0 @@
-{
-  "name": "Browsette",
-  "version": "0.01",
-  "description": "Define later",
-  "browser_action": {
-    "default_popup": "index.html"
-  },
-  "manifest_version": 2  
-}
