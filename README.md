@@ -15,7 +15,7 @@ Browsette is an open source, community-driven browser extension to make your dai
 
 Sounds boring. Let's try again.
 
-__Browsette will not make you feel like using Stark's ai J.A.R.V.I.S.___
+__Browsette will not make you feel like using Stark's J.A.R.V.I.S.__
 
 __...but you might feel like one.__
 
