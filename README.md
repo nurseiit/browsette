@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="docs/logo.png" alt="Oh Browsette">
+  <img width = "35%" src="/doc/logo.png" alt="Oh Browsette">  
 </p>
-_Logo design by [SomeSayKosm](https://twitter.com/SometimesKosm)_
+
+*Logo design by [SomeSayKosm](https://twitter.com/SometimesKosm)*
 
 Browsette is an open source, community-driven browser extension to make your daily browsing easier than ever before.
 
