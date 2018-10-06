@@ -31,3 +31,16 @@ If it sounds interesteng enough to you, let's
 ## Get Started
 
 ### Prerequisites
+
+__Disclaimer:__ Browsette works best on Chromium based browsers.
+
+## Installation
+
+## Plugins and addons
+
+## Advanced options
+
+## Contributing
+
+## License
+*Browsette* is released under the [MIT license](LICENSE.txt).
