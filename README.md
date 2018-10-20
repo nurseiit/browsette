@@ -2,15 +2,6 @@
   <img width = "35%" src="/doc/logo.png" alt="Oh Browsette">  
 </p>
 
-<p align="center">
-  <i>
-    Logo by 
-    <a href="https://twitter.com/SometimesKosm">
-      SomeSayKosm
-    </a>
-  </i>
-</p>
-
 Browsette is an open source, community-driven browser extension to make your daily browsing easier than ever before.
 
 Sounds boring. Let's try again.
@@ -41,6 +32,16 @@ __Disclaimer:__ Browsette works best on Chromium based browsers.
 ## Advanced options
 
 ## Contributing
+
+### References
+<p>
+  <i>
+    Logo by 
+    <a href="https://twitter.com/SometimesKosm">
+      SomeSayKosm
+    </a>
+  </i>
+</p>
 
 ## License
 *Browsette* is released under the [MIT license](LICENSE.txt).
