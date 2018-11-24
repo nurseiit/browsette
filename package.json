@@ -1,36 +1,13 @@
 {
   "name": "browsette",
   "version": "1.0.0",
-  "private": true,
-  "homepage": ".",
   "description": "Browser extension",
-  "dependencies": {
-    "prop-types": "^15.6.2",
-    "react": "^16.5.2",
-    "react-dom": "^16.5.2",
-    "react-scripts": "1.1.5"
-  },
-  "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/nurseiit/browsette.git"
-  },
-  "author": "Nurseiit",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/nurseiit/browsette/issues"
-  },
+  "main": "index.js",
+  "repository": "git@github.com:nurseiit/browsette.git",
+  "author": "Nurseiit Abdimomyn <nurseyit.abdimomyn@gmail.com>",
+  "license": "MIT",
+  "private": true,
   "devDependencies": {
-    "babel-eslint": "^9.0.0",
-    "eslint": "^5.6.0",
-    "eslint-config-airbnb": "^17.1.0",
-    "eslint-plugin-import": "^2.14.0",
-    "eslint-plugin-jsx-a11y": "^6.1.1",
-    "eslint-plugin-react": "^7.11.1"
+    "typescript": "^3.3.0-dev.20181122"
   }
 }
