@@ -13,7 +13,7 @@ module.exports = {
   // Output the bundled JS to dist/app.js
   output: {
     filename: 'app.js',
-    path: path.resolve('dist')
+    path: path.resolve('build/scripts')
   },
   resolve: {
     // Look for modules in .ts(x) files first, then .js(x)
