@@ -1,9 +1,17 @@
 {
   "short_name": "Browsette",
   "name": "A delightful Browsette",
-  "version": "0.02",
+  "version": "0.03",
   "browser_action": {
-    "default_popup": "index.html"
+    "default_icon": {
+      "16": "logo_icon16.png",
+      "32": "logo_icon32.png",
+      "48": "logo_icon48.png",
+      "128": "logo_icon128.png"
+    },
+   "default_popup": "index.html"
   },
-  "manifest_version": 2 
+  "manifest_version": 2,
+
+  "description": "Simplify your everyday browsing! Take control over what you do online."
 }
