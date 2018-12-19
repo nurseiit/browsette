@@ -1,9 +1,9 @@
 {
-  "name": "Browsette",
-  "version": "0.01",
-  "description": "Define later",
+  "short_name": "Browsette",
+  "name": "A delightful Browsette",
+  "version": "0.02",
   "browser_action": {
     "default_popup": "index.html"
   },
-  "manifest_version": 2  
+  "manifest_version": 2 
 }

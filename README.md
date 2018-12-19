@@ -1,5 +1,5 @@
 <p align="center">
-  <img width = "35%" src="/doc/logo.png" alt="Oh Browsette">  
+  <img width = "35%" src="/docs/logo.png" alt="Oh Browsette">  
 </p>
 
 Browsette is an open source, community-driven browser extension to make your daily browsing easier than ever before.
