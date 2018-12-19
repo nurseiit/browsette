@@ -3,6 +3,7 @@
 </p>
 
 [![Build Status](https://travis-ci.com/nurseiit/browsette.svg?branch=master)](https://travis-ci.com/nurseiit/browsette)
+[![Coverage Status](https://coveralls.io/repos/github/nurseiit/browsette/badge.svg)](https://coveralls.io/github/nurseiit/browsette)
 
 Browsette is an open source, community-driven browser extension to make your daily browsing easier than ever before.
 
