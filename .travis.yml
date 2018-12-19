@@ -1,6 +1,5 @@
 language: node_js
 node_js:
-  - 8
   - 10
   - node
 cache:
@@ -19,3 +18,9 @@ branches:
   only:
     - master
     - /^release-.*/
+
+jobs:
+  include:
+    - stage: Produce Coverage
+      node_js: node
+      script: react-scripts-ts test --env=jsdom --coverage && cat ./coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js && rm -rf ./coverage
