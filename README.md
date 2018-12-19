@@ -2,6 +2,8 @@
   <img width = "35%" src="/docs/logo.png" alt="Oh Browsette">  
 </p>
 
+[![Build Status](https://travis-ci.com/nurseiit/browsette.svg?branch=master)](https://travis-ci.com/nurseiit/browsette)
+
 Browsette is an open source, community-driven browser extension to make your daily browsing easier than ever before.
 
 Sounds boring. Let's try again.
