@@ -1,21 +1,19 @@
 language: node_js
-
 node_js:
-  - 'node'
-
-sudo: false
-
+  - 8
+  - 10
+  - node
+cache:
+  yarn: true
+  directories:
+    - node_modules
+before_install:
+  - curl -o- -L https://yarnpkg.com/install.sh | bash
+  - export PATH="$HOME/.yarn/bin:$PATH"
+install: true
 matrix:
   fast_finish: true
-
 branches:
   only:
-  - master
-  - /^release-.*/
-
-install:
-  - npm install
-
-cache:
-  directories:
-- node_modules
+    - master
+    - /^release-.*/
