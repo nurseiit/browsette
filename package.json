@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "coveralls": "^3.0.2",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-scripts-ts": "3.1.0"
@@ -19,6 +18,7 @@
     "@types/node": "^10.12.10",
     "@types/react": "^16.7.7",
     "@types/react-dom": "^16.0.10",
+    "coveralls": "^3.0.2",
     "typescript": "^3.1.6"
   }
 }
