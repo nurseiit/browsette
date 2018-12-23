@@ -48,4 +48,4 @@ __Disclaimer:__ Browsette works best on Chromium based browsers.
 </p>
 
 ## License
-*Browsette* is released under the [MIT license](LICENSE.txt).
+*Browsette* is released under the [MIT license](LICENSE).
